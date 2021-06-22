@@ -1,5 +1,5 @@
 # Online Library Portal
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/naszifnaaz/Library-portal?logo=GitHub)
+![GitHub repo size](https://img.shields.io/github/repo-size/naszifnaaz/Library-portal?logo=GitHub)
 
 
 An interactive web portal for automating various manual processes done by librarian.
